@@ -1,4 +1,4 @@
-# Caching Inverse of a Matrix
+# Caching Inverse of a Matrix 
 
 # Example usage
 # a <- matrix(rnorm(4), nrow = 2, ncol = 2)
